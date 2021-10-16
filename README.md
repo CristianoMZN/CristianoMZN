@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá 👋, seja bem vindo ao meu repositório no github
+Essas são minhas redes sociais:
 
-<!--
-**CristianoMZN/CristianoMZN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - [facebook](facebook.com)
+ - [instagram](facebook.com)
+ - [twitter](facebook.com)
+ - [linkedin](facebook.com)
 
-Here are some ideas to get you started:
+Ah! tenho um podcast com meu amigo @ivansgarbi, falamos sobre animes e coisas nerds. Caso queira escutar🎧:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - [Site Oficial](https://bit.ly/2YU1aWu)
+ - [Spotify](https://spoti.fi/3ng5TKj)
+ - [Amazon Music](https://amzn.to/3AMgNvO)
+ - [Google PodCasts](https://bit.ly/3BLYFni)
+ - [Apple iTunes](https://apple.co/3AP4or3)
+ - [Deezer](https://bit.ly/3FPyUov)
