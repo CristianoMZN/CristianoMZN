@@ -25,3 +25,6 @@ Eu e mais amigo, @ivansgarbi, tivemos um podcast por um tempo. Conversamos sobre
  - [Google PodCasts](https://bit.ly/3BLYFni)
  - [Apple iTunes](https://apple.co/3AP4or3)
  - [Deezer](https://bit.ly/3FPyUov)
+
+
+![:CristianoMZN](https://count.getloli.com/get/@:CristianoMZN?theme=rule34)
