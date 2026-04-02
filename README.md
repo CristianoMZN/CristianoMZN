@@ -10,7 +10,7 @@ Desenvolvedor de software e criador de conteúdo com foco em produtos móveis, p
 - Objetivo: apresentar projetos bem documentados e fáceis de avaliar por recrutadores.
 
 ## Destaques
-- **Curia App — Gestão financeira pessoal** — política de privacidade, arquitetura e decisões de design (veja [curia-app-privacity.md](curia-app-privacity.md)).
+- Página pública dos meus repositórios: veja a página local em [docs/index.html](docs/index.html) ou publique via GitHub Pages (branch `main`, pasta `/docs`) para um site público.
 
 ## Tecnologias (exemplos usados)
 - Firebase Auth, Cloud Firestore
