@@ -1,30 +1,59 @@
-# Olá 👋, seja bem vindo ao meu repositório no github
-## Descrição
-**Programador e Criador de conteúdo!** 
-## Acompanhe meu conteúdo:
-Essas são as redes onde eu posto conteúdo:
+[![CI](https://github.com/CristianoMZN/CristianoMZN/actions/workflows/ci.yml/badge.svg)](https://github.com/CristianoMZN/CristianoMZN/actions)
+[![License](https://img.shields.io/github/license/CristianoMZN/CristianoMZN.svg)](LICENSE)
+
+# CristianoMZN — Portfólio Pessoal
+
+Desenvolvedor de software e criador de conteúdo com foco em produtos móveis, privacidade de dados e experiência do usuário. Este repositório reúne documentação, políticas e material de apoio para projetos selecionados.
+
+## Resumo rápido
+- Áreas de atuação: aplicativos multiplataforma, Firebase (Auth, Firestore), privacidade e UX.
+- Objetivo: apresentar projetos bem documentados e fáceis de avaliar por recrutadores.
+
+## Destaques
+- **Curia App — Gestão financeira pessoal** — política de privacidade, arquitetura e decisões de design (veja [curia-app-privacity.md](curia-app-privacity.md)).
+
+## Tecnologias (exemplos usados)
+- Firebase Auth, Cloud Firestore
+- Leitura de NF-e via QR Code / código de barras
+- Notificações locais no dispositivo
+
+## Como avaliar este repositório
+- Leia a documentação dos projetos e políticas (arquivos marcados nesta raiz).
+- Verifique badges de CI e licença.
+- Consulte `CONTRIBUTING.md`, `CHANGELOG.md` e `SECURITY.md` para entender processo e postura profissional.
+
+## Como rodar (verificação rápida)
+Este repositório contém documentação e arquivos de suporte. Para executar um teste de verificação mínimo (placeholder):
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements-dev.txt
+pytest -q
+```
+
+## Contribuições
+Abra issues e pull requests seguindo `CONTRIBUTING.md`.
+
+## Pitch rápido / Contato
+Sou desenvolvedor focado em construir produtos que respeitam a privacidade do usuário e entregam valor. Para avaliar fit ou solicitar demonstração:
+- LinkedIn: https://www.linkedin.com/in/cristiano-mozena-a7206857/
+- Twitch / YouTube / Twitter: links no final do README
+
+## Licença
+Licenciado sob MIT — veja `LICENSE`.
+
+---
+
+## Links e redes
 - [TikTok](https://www.tiktok.com/@CristianoMZN)
 - [Twitch](https://www.twitch.tv/CristianoMZN)
 - [YouTube](https://www.youtube.com/channel/UCLCmAwLJU5s1qZ3gb8d6DBg)
+- [Facebook](http://fb.com/CristianoMZN)
+- [Instagram](https://www.instagram.com/cristianomzn/)
+- [Twitter](https://twitter.com/CristianoMzn)
+- [LinkedIn](https://www.linkedin.com/in/cristiano-mozena-a7206857/)
 
+---
 
-## Links
-### Redes sociais pessoais:
-Essas são as redes sociais para uso pessoal:
- - [facebook](http://fb.com/CristianoMZN)
- - [instagram](https://www.instagram.com/cristianomzn/)
- - [twitter](https://twitter.com/CristianoMzn)
- - [linkedin](https://www.linkedin.com/in/cristiano-mozena-a7206857/)
- - [Youtube Pessoal](https://music.youtube.com/channel/UCLCmAwLJU5s1qZ3gb8d6DBg)
-
-## Outros
-Eu e mais amigo, @ivansgarbi, tivemos um podcast por um tempo. Conversamos sobre cultura Otaku e POP Culture. Caso queira ouvir você pode escutar pelos links oficiais abaixo 🎧:
- - [Site Oficial](https://bit.ly/2YU1aWu)
- - [Spotify](https://spoti.fi/3ng5TKj)
- - [Amazon Music](https://amzn.to/3AMgNvO)
- - [Google PodCasts](https://bit.ly/3BLYFni)
- - [Apple iTunes](https://apple.co/3AP4or3)
- - [Deezer](https://bit.ly/3FPyUov)
-
-
-![:CristianoMZN](https://count.getloli.com/get/@:CristianoMZN?theme=rule34)
+_Última atualização:_ atualizada automaticamente pelo script do repositório.
